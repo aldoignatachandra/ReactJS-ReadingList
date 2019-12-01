@@ -9,7 +9,7 @@ export const bookReducer = (state, action) => {
         case "ADD_BOOK":
             if (state.filter(book => book.title === action.book.title).length > 0) {
                 if (state.filter(book => book.author === action.book.author).length > 0) {
-                    toast.warn(`"${action.book.title}" Already Exist In List`)
+                    toast.warn(`Book "${action.book.title}" Already Exist In List`)
                     return state;
                 } else {
                     toast.success(`Success Add New Book "${action.book.title}"`)
