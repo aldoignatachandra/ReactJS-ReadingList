@@ -1,0 +1,12 @@
+.navbar {
+    padding: 10px 20px;
+    text-align: center;
+    background: rgb(246, 50, 50);
+    font-family: roboto;
+    font-weight: bold;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.navbar h1 {
+    margin: 10px 0;
+}
