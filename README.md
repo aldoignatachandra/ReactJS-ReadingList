@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/react_dom-16.12.0-yellow">
 <img src="https://img.shields.io/badge/react%20scripts-3.2.0-brightgreen">
 <img src="https://img.shields.io/badge/react%20toastify-5.4.1-orange">
-<img src="https://img.shields.io/badge/uuid-3.3.3-yellow">
+<img src="https://img.shields.io/badge/uuid-3.3.3-red">
 
 Ignata's Reading List is an application base on website for make a list of a book with the title and author input. This application build with react js, context and hooks for exercise purpose. Additional effect and showing message error handler using [react toastify](https://github.com/fkhadra/react-toastify) to make this application more interesting.
 
