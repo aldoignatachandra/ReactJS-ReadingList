@@ -40,5 +40,4 @@ Ignata's Reading List is an application base on website for make a list of a boo
 </p>
 
 ## License
-----
 [ISC](https://en.wikipedia.org/wiki/ISC_license "ISC")
